@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@import "./assets/fonts/font-face.css";
+
+@theme {
+  --color-bg: #f6efef;
+  --color-primary: #281c59;
+  --color-secondary: #ff2056;
+  --color-badge: #ffb259;
+  --font-family-main: "Vazirmatn";
+}
+
+p,
+a,
+button,
+input,
+form,
+h1,
+h2,
+h3 {
+  font-family: var(--font-family-main);
+}
+
+button {
+  @apply cursor-pointer;
+}
+
+.container {
+  @apply max-w-6xl mx-auto px-10;
+}
