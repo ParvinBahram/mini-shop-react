@@ -25,5 +25,5 @@ button {
 }
 
 .container {
-  @apply max-w-6xl mx-auto px-10;
+  @apply max-w-6xl mx-auto px-8;
 }
