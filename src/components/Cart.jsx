@@ -12,7 +12,7 @@ function Cart() {
   },0);
 
   return (
-    <div className=" py-10 flex flex-col gap-10" dir="rtl">
+    <div className=" py-10 flex flex-col gap-10 min-h-screen" dir="rtl">
       <h1 className="font-bold my-4 text-lg text-center mx-auto">محصولات سبد خرید</h1>
       <div className="flex flex-col lg:flex-row  lg:justify-between lg:gap-12  ">
         <div className="space-y-8 w-max">
@@ -33,8 +33,8 @@ function Cart() {
     ))}
     </div>
 
-    <div className="lg:ml-15 xl:ml-30" >
-      <div className={`mt-10  ${state.length !== 0 ? "hidden" : "-mr-320"}`}>
+    <div className="mx-auto text-center" >
+      <div className={`mt-10  ${state.length !== 0 ? "hidden" : ""}`}>
       <h2 className='text-center text-2xl text-secondary my-8' >سبد خرید شما خالی است</h2>
       <Link to="/" className="text-sm rounded-2xl text-primary bg-white font-bold p-2 hover:shadow hover:opacity-80">بازگشت به فروشگاه</Link>
       </div>
