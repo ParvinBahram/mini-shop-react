@@ -1,7 +1,7 @@
 const productsList =  [
     {
         title:"نوبت عمر گذشت " ,
-        imgUrl: "/src/assets/images/1.jpg",
+        imgUrl: "/images/1.jpg",
         price:5000 ,
         artist: "پروین بهرام",
         size: '20*30' ,
@@ -11,7 +11,7 @@ const productsList =  [
     },
      {
         title: "هرچیز که در جستن آنی", 
-        imgUrl: "/src/assets/images/38.jpg",
+        imgUrl: "/images/38.jpg",
         price: 1200,
          artist: "پروین بهرام",
         size: '50*70' ,
@@ -22,7 +22,7 @@ const productsList =  [
    
     {
         title: "چون تو دارم", 
-        imgUrl: "/src/assets/images/29.jpg",
+        imgUrl: "/images/29.jpg",
         price:3000 ,
         artist: "فاطمه آرت",
         size: '70*100',
@@ -31,7 +31,7 @@ const productsList =  [
     },
     {
         title: "زمستان", 
-        imgUrl: "/src/assets/images/30.jpg",
+        imgUrl: "/images/30.jpg",
         price:25000 ,
         artist:'محسن ابراهیم خانی- خط سوم' ,
         size: '30*80',
@@ -40,7 +40,7 @@ const productsList =  [
     },
     {
         title: "جانی و دلی", 
-        imgUrl: "/src/assets/images/12.jpg",
+        imgUrl: "/images/12.jpg",
         price: 1500,
            artist:"کیا خط" ,
         size: '20*20',
@@ -50,7 +50,7 @@ const productsList =  [
    
     {
         title: "میل و تمنا همه تو", 
-        imgUrl: "/src/assets/images/15.jpg",
+        imgUrl: "/images/15.jpg",
         price: 2500,
            artist: "گاری هنر درون",
         size: '20*30',
@@ -61,7 +61,7 @@ const productsList =  [
    
     {
         title: "از صبا پرس", 
-        imgUrl: "/src/assets/images/18.jpg",
+        imgUrl: "/images/18.jpg",
         price: 15000,
            artist:"استاد غلام حسین امیرخانی" ,
         size:'20*30' ,
@@ -70,7 +70,7 @@ const productsList =  [
     },
     {
         title: "به اتفاق میتوان جهان گرفت", 
-        imgUrl: "/src/assets/images/19.jpg",
+        imgUrl: "/images/19.jpg",
         price: 12000,
           artist:"استاد غلام حسین امیرخانی" ,
         size:"20*30" ,
@@ -79,7 +79,7 @@ const productsList =  [
     },
     {
         title: "طالب لعل وگهر"  ,
-        imgUrl: "/src/assets/images/20.jpg",
+        imgUrl: "/images/20.jpg",
         price: 8000,
           artist:"استاد غلام حسین امیرخانی" ,
         size:'30*40' ,
@@ -88,7 +88,7 @@ const productsList =  [
     },
     {
         title: "ما عیب کس", 
-        imgUrl: "/src/assets/images/21.jpg",
+        imgUrl: "/images/21.jpg",
         price: 10000,
          artist:"استاد غلام حسین امیرخانی" ,
         size:'20*30' ,
@@ -98,7 +98,7 @@ const productsList =  [
    
     {
         title: "از خود بطلب", 
-        imgUrl: "/src/assets/images/24.jpg",
+        imgUrl: "/images/24.jpg",
         price: 2000,
          artist:"سمیه جهانگیری" ,
         size:'40*40' ,
@@ -107,7 +107,7 @@ const productsList =  [
     },
     {
         title:"دراگربرتوببندد",
-        imgUrl: "/src/assets/images/32.jpg",
+        imgUrl: "/images/32.jpg",
         price: 6500,
          artist:"مهدیه توحیدی" ,
         size:'70*100' ,
@@ -117,7 +117,7 @@ const productsList =  [
     
      {
         title: "نردبان این جهان", 
-        imgUrl: "/src/assets/images/34.jpg",
+        imgUrl: "/images/34.jpg",
         price: 3600,
         artist: "شهرام اسدی",
         size: "40*60",
@@ -126,7 +126,7 @@ const productsList =  [
     },
      {
         title: "سوره حمد نستعلیق", 
-        imgUrl: "/src/assets/images/35.jpg",
+        imgUrl: "/images/35.jpg",
         price: 5000,
           artist: "نیما ایکایی",
         size: '20*30',
