@@ -8,7 +8,7 @@ export default function Navbar(){
         <>
         <nav className="px-5 bg-primary text-white flex flex-row justify-around sticky top-0 left-0 z-50 h-15 items-center shadow-lg" dir="rtl">
             <div className="flex items-center">
-                <img src="/Adobe Express - file.png" alt="logo" className="w-25 h-13 -mr-8" />
+                <img src="/images/Adobe Express - file.png" alt="logo" className="w-25 h-13 -mr-8" />
                 <h1 className="text-sm sm:text-lg -mr-4">فروش تابلوهای خوشنویسی</h1>
             </div>
             <div className="flex flex-row justify-center gap-8">
