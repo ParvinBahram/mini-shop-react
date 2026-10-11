@@ -90,13 +90,13 @@ npm run dev
  
 
 ## Preview
-![Screenshot](./src/assets/images/capture1.png)
+![Screenshot](./public/images/capture1.png)
 <br><br><br><br>
-![Screenshot](./src/assets/images/capture2.png)
+![Screenshot](./public/images/capture2.png)
 <br><br><br><br>
-![Screenshot](./src/assets/images/capture3.png)
+![Screenshot](./public/images/capture3.png)
 <br><br><br><br>
-![Screenshot](./src/assets/images/capture4.png)
+![Screenshot](./public/images/capture4.png)
 <br><br><br><br>
 
 
